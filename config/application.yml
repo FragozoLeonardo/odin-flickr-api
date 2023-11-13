@@ -1,0 +1,5 @@
+# config/application.yml
+
+development:
+  FLICKR_KEY: "d2c9b27fdf96034563e32d4adedd5976"
+  FLICKR_SECRET: "10a713ffa080be44"
